@@ -5585,7 +5585,7 @@ __metadata:
     stylis: "npm:^4.3.4"
     tinykeys: "npm:^3.0.0"
     ts-node: "npm:^10.9.2"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.7.3"
     url: "npm:^0.11.4"
     use-resize-observer: "npm:^9.1.0"
     vite: "npm:^5.4.10"
@@ -5609,7 +5609,7 @@ __metadata:
     rimraf: "npm:^6.0.1"
     rollup: "npm:4.24.3"
     rollup-plugin-postcss: "npm:^4.0.2"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.7.3"
     url: "npm:^0.11.4"
   peerDependencies:
     eslint: ">=7.4.0"
@@ -5635,7 +5635,7 @@ __metadata:
     rollup: "npm:4.24.3"
     rollup-plugin-postcss: "npm:^4.0.2"
     styled-components: "npm:^6.1.13"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.7.3"
     url: "npm:^0.11.4"
   peerDependencies:
     eslint: ">=7.4.0"
@@ -5648,7 +5648,7 @@ __metadata:
   dependencies:
     "@markflowy/theme": "workspace:*"
     rimraf: "npm:^6.0.1"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.7.3"
   languageName: unknown
   linkType: soft
 
@@ -5700,7 +5700,7 @@ __metadata:
     styled-jsx: "npm:^5.1.6"
     stylis: "npm:^4.3.4"
     stylis-plugin-rtl: "npm:^2.1.1"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.7.3"
     webpack-bundle-analyzer: "npm:^4.10.2"
     zens: "npm:0.0.42"
   languageName: unknown
@@ -15415,7 +15415,7 @@ __metadata:
     rollup: "npm:4.24.3"
     rollup-plugin-postcss: "npm:^4.0.2"
     turbo: "npm:^2.2.3"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.7.3"
   languageName: unknown
   linkType: soft
 
@@ -21634,23 +21634,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^5.6.3":
-  version: 5.6.3
-  resolution: "typescript@npm:5.6.3"
+"typescript@npm:^5.7.3":
+  version: 5.7.3
+  resolution: "typescript@npm:5.7.3"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10/c328e418e124b500908781d9f7b9b93cf08b66bf5936d94332b463822eea2f4e62973bfb3b8a745fdc038785cb66cf59d1092bac3ec2ac6a3e5854687f7833f1
+  checksum: 10/6a7e556de91db3d34dc51cd2600e8e91f4c312acd8e52792f243c7818dfadb27bae677175fad6947f9c81efb6c57eb6b2d0c736f196a6ee2f1f7d57b74fc92fa
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@npm%3A^5.6.3#optional!builtin<compat/typescript>":
-  version: 5.6.3
-  resolution: "typescript@patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=b45daf"
+"typescript@patch:typescript@npm%3A^5.7.3#optional!builtin<compat/typescript>":
+  version: 5.7.3
+  resolution: "typescript@patch:typescript@npm%3A5.7.3#optional!builtin<compat/typescript>::version=5.7.3&hash=b45daf"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10/dc4bec403cd33a204b655b1152a096a08e7bad2c931cb59ef8ff26b6f2aa541bf98f09fc157958a60c921b1983a8dde9a85b692f9de60fa8f574fd131e3ae4dd
+  checksum: 10/3ac7b7e3e899273d2fbdce6e24b93d4d53a705ad7a7e4cc83b4c57bcb6d25948abcd2a21994f6b9c73ab03960f395aae95f0458de292a66ce0134233261714c3
   languageName: node
   linkType: hard
 
