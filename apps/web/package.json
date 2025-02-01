@@ -24,7 +24,7 @@
     "@swc/helpers": "^0.5.15",
     "contentlayer2": "0.5.2",
     "isomorphic-fetch": "^3.0.0",
-    "markdown-to-jsx": "^7.5.0",
+    "markdown-to-jsx": "^7.7.3",
     "next": "^14.2.14",
     "next-contentlayer2": "0.5.2",
     "next-i18next": "^15.3.0",
