@@ -27,7 +27,7 @@ async-graphql = { version = "7.0.11", features = ["uuid", "chrono", "log"] }
 async-graphql-axum = "7.0.11"
 
 # Rest
-utoipa = { version = "4.2.0", features = ["axum_extras"] }
+utoipa = { version = "5.3.1", features = ["axum_extras"] }
 utoipa-swagger-ui = { version = "6.0.0", features = ["axum"] }
 
 # Database
