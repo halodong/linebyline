@@ -5685,7 +5685,7 @@ __metadata:
     markdown-to-jsx: "npm:^7.5.0"
     next: "npm:^14.2.14"
     next-contentlayer2: "npm:0.5.2"
-    next-i18next: "npm:^15.3.0"
+    next-i18next: "npm:^15.4.1"
     polished: "npm:^4.3.1"
     prettier: "npm:^3.3.3"
     react: "npm:18.3.1"
@@ -9138,7 +9138,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/hoist-non-react-statics@npm:*, @types/hoist-non-react-statics@npm:^3.3.4":
+"@types/hoist-non-react-statics@npm:*":
   version: 3.3.5
   resolution: "@types/hoist-non-react-statics@npm:3.3.5"
   dependencies:
@@ -14070,10 +14070,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"i18next-fs-backend@npm:^2.3.2":
-  version: 2.3.2
-  resolution: "i18next-fs-backend@npm:2.3.2"
-  checksum: 10/c017975bfe6e84ee2a44a2dd1828f01a224276b180fa626fcaed44de5397c648c20951b4fc9f059917fb9f71735c50c193378b02e1b75a65864612cb4cfa9403
+"i18next-fs-backend@npm:^2.6.0":
+  version: 2.6.0
+  resolution: "i18next-fs-backend@npm:2.6.0"
+  checksum: 10/e23b6337326bea870c9e0a3e004241a27dcc56ac803946b859992bc2030e5f8d41cb10fbf3b74424155055387587f8d308b60118e07f75104198865f329013a9
   languageName: node
   linkType: hard
 
@@ -16969,21 +16969,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"next-i18next@npm:^15.3.0":
-  version: 15.3.1
-  resolution: "next-i18next@npm:15.3.1"
+"next-i18next@npm:^15.4.1":
+  version: 15.4.1
+  resolution: "next-i18next@npm:15.4.1"
   dependencies:
     "@babel/runtime": "npm:^7.23.2"
-    "@types/hoist-non-react-statics": "npm:^3.3.4"
     core-js: "npm:^3"
     hoist-non-react-statics: "npm:^3.3.2"
-    i18next-fs-backend: "npm:^2.3.2"
+    i18next-fs-backend: "npm:^2.6.0"
   peerDependencies:
     i18next: ">= 23.7.13"
     next: ">= 12.0.0"
     react: ">= 17.0.2"
     react-i18next: ">= 13.5.0"
-  checksum: 10/fc9a48cedf0e6bb9ba51f7256230c07bcbe8abfb137f9c1b8723464c572586c6d8e28963c08df9eacf09b98fcaf8156a756301ba0318ca4ee67a71da94abee7e
+  checksum: 10/89482a8220081aed859f39c97524372ab2f6dbfab6d16e5a27ad57146f141c77f6b2a161302c6ead6d84b7907c2dbd971b0f9553b4f19231646dd726c95c6b5b
   languageName: node
   linkType: hard
 
